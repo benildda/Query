@@ -1,2 +1,2 @@
-select
-from
+SELECT name
+FROM artist
